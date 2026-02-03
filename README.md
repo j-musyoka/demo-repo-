@@ -13,3 +13,9 @@ Watch Tutorial on youtube
 ## I have make an update 
 
 1. Index.htlm file 
+
+## Created a new branch 
+
+by git checkout -b 
+ to switch bretween branches you do the same 
+ 
