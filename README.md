@@ -17,5 +17,5 @@ Watch Tutorial on youtube
 ## Created a new branch 
 
 by git checkout -b 
- to switch bretween branches you do the same 
+ to switch between branches you do the same 
  
